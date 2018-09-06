@@ -1,0 +1,13 @@
+{
+    "name": "strarsis/polylang-intro-page",
+    "description": "Adds support for an intro / language selection page to Polylang",
+    "keywords": [
+        "WordPress", "plugin", "extension", "polylang", "intro", "page", "language selection", "selection"
+    ],
+    "license": "MIT",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.4.0",
+        "composer/installers": "~1.0"
+    }
+}
