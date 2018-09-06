@@ -6,7 +6,7 @@ require __dir__ . '/is_front_page_workaround.php';
 Plugin Name: Polylang Extension: Intro
 Description: Adds support for an intro / language selection page to Polylang
 Author:      strarsis
-Version:     1.0.0
+Version:     1.0.1
 Text Domain: polylang-intro-page
 Domain Path: /lang/
 */
